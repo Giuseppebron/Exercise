@@ -25,7 +25,7 @@ public class Main {
     private static void exercise2() {
         System.out.println("\nExercise 2:");
         System.out.println(23);
-        System.out.println("true");
+        System.out.println(true);
         System.out.println(7.99);
         // Write your code here
     }

@@ -26,9 +26,11 @@ public class Main {
      */
     private static void exercise1() {
         System.out.println("Exercise 1:");
-        int a = 10;
-        System.out.println(a + 1);
-        System.out.println(a - 1);
+        int a = 10 ;
+        a += 1;
+        a -= 1;
+        System.out.println(a);
+        System.out.println(a);
         // Write your code here
     }
 
@@ -41,9 +43,11 @@ public class Main {
     private static void exercise2() {
         System.out.println("\nExercise 2:");
         double x = 2.34;
-        System.out.println(x * 2);
+        x *= 2;
+        System.out.println(x);
         double y = 3.14;
-        System.out.println(y / 2);
+        y /= 2;
+        System.out.println(y);
         // Write your code here
     }
 
