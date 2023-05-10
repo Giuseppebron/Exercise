@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Exercises {
     public static void main(String[] args) {
-        exercise2();
+        exercise2(); exercise3();
     }
 
     /**
@@ -66,6 +66,14 @@ public class Exercises {
 
     private static void exercise3() {
         System.out.println("\nExercise 3:");
+        List<Integer> studentAges = Arrays.asList(23, 31, 38);
+
+        double sumTotalAge = 0;
+        for (int age : studentAges){
+            sumTotalAge += age;
+        }
+        double averageAge = sumTotalAge / 3;
+        System.out.println(Math.round(averageAge));
         // Write your code here
     }
 }

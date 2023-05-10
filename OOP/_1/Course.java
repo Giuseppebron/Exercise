@@ -12,9 +12,6 @@ public class Course {
 
     List<String> studentNames = Arrays.asList("Alice", "Aragon", "Alex");
     List<Integer> studentAges = Arrays.asList(23, 31, 38);
-    List<Student> students = new ArrayList<>();
-
-
 }
 
 
