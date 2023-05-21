@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="">
+    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="add exercise JavaAdvanced \_3">
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_4/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_5/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_7/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_7/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaadvanced/_1/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaadvanced/_1/Exercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/_11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/_11/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/_17/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/_17/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -31,6 +45,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Giuseppe Francy/Desktop/esercizi&quot;,
@@ -45,13 +63,13 @@
       <recent name="javabasics.javaadvanced._2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._3.Exercises" />
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._6.Exercises" />
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced._3.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javabasics.OOP._1.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.OOP._1.Exercises" />
+    <configuration name="javabasics.javaadvanced._1.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._1.Exercises" />
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.OOP._1.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javabasics.OOP._3.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.OOP._3.Exercises" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._7.main" />
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.OOP._3.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,39 +116,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javabasics.OOP._4.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.OOP._4.Exercises" />
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.OOP._4.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="javabasics.javaadvanced._7" />
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._7.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javabasics.javaadvanced._2.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._2.Exercises" />
+    <configuration name="javabasics.javaadvanced._7 in esercizi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced._2.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="javabasics.javaadvanced._7" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.javabasics.javaadvanced._7 in esercizi" />
         <item itemvalue="Application.Exercises" />
-        <item itemvalue="Application.javabasics.javaadvanced._2.Exercises" />
-        <item itemvalue="Application.javabasics.OOP._4.Exercises" />
-        <item itemvalue="Application.javabasics.OOP._3.Exercises" />
-        <item itemvalue="Application.javabasics.OOP._1.Exercises" />
+        <item itemvalue="Application.javabasics.javaadvanced._1.Exercises" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +164,21 @@
       <option name="presentableId" value="Default" />
       <updated>1680712582430</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed OOP\_1">
+      <created>1683754491181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683754491181</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add exercise JavaAdvanced \_3">
+      <created>1683754870256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683754870256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +191,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed OOP\_1" />
+    <MESSAGE value="add exercise JavaAdvanced \_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise JavaAdvanced \_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

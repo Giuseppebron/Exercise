@@ -117,8 +117,8 @@ public class Exercises {
 
         // 3b. Find which items from set a are also in set b, add these to itemsContainedInBothSets
         //     use the `contains` method and "nested" for loop
-        Set<Integer> setA = of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
-        Set<Integer> setB = of(5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15);
+        Set<Integer> setA = Set.of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+        Set<Integer> setB = Set.of(5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15);
         Set<Integer> itemsContainedInBothSets = new HashSet<>();
 
 
