@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="add exercise JavaAdvanced \_3">
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_4/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_5/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/Seasons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_6/TrafficLight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_7/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_7/CalculatorTest.java" afterDir="false" />
+    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="add exercise JavaAdvanced 4-5-6-7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaadvanced/_1/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaadvanced/_1/Exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/_11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/_11/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/_17/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/_17/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ec7c7034-5ab2-4227-adc4-1fe3363be769" />
+        <option name="url" value="https://github.com/Giuseppebron/Exercise.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2O103gowkr7v7iFz7GxaRF2D3yU" />
   <component name="ProjectViewState">
@@ -63,7 +62,7 @@
       <recent name="javabasics.javaadvanced._2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
+  <component name="RunManager" selected="Application.javabasics.javaadvanced.Inheritance._1.Exercises">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._6.Exercises" />
       <module name="esercizi" />
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javabasics.javaadvanced._1.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._1.Exercises" />
+    <configuration name="javabasics.javaadvanced.Inheritance._1.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced.Inheritance._1.Exercises" />
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced._1.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced.Inheritance._1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javabasics.javaadvanced.Inheritance._1.Exercises" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="Application.main" />
         <item itemvalue="JUnit.javabasics.javaadvanced._7 in esercizi" />
         <item itemvalue="Application.Exercises" />
-        <item itemvalue="Application.javabasics.javaadvanced._1.Exercises" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683754870256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add exercise JavaAdvanced 4-5-6-7">
+      <created>1684683024925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684683024925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed OOP\_1" />
     <MESSAGE value="add exercise JavaAdvanced \_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise JavaAdvanced \_3" />
+    <MESSAGE value="add exercise JavaAdvanced 4-5-6-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise JavaAdvanced 4-5-6-7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
