@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="add exercise JavaAdvanced 4-5-6-7">
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Exercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +37,7 @@
       <list>
         <option value="module-info" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -24,11 +45,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -37,7 +58,13 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2O103gowkr7v7iFz7GxaRF2D3yU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,9 +75,10 @@
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Giuseppe Francy/Desktop/esercizi&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/giuse/IdeaProjects&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -62,13 +90,13 @@
       <recent name="javabasics.javaadvanced._2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javabasics.javaadvanced.Inheritance._1.Exercises">
+  <component name="RunManager" selected="Application.Exercises">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._6.Exercises" />
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._3Objectclass._3.Exercises" />
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced._6.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._3Objectclass._3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +123,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javabasics.javaadvanced.Inheritance._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javabasics.javaadvanced._2Abstractclass._2.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._2Abstractclass._2.Exercises" />
+      <module name="esercizi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasics.javaadvanced._2Abstractclass._2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,27 +171,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javabasics.javaadvanced._7 in esercizi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="esercizi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced._7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="javabasics.javaadvanced._7" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises" />
+        <item itemvalue="Application.javabasics.javaadvanced._2Abstractclass._2.Exercises" />
         <item itemvalue="Application.javabasics.javaadvanced.Inheritance._1.Exercises" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="Application.main" />
-        <item itemvalue="JUnit.javabasics.javaadvanced._7 in esercizi" />
-        <item itemvalue="Application.Exercises" />
       </list>
     </recent_temporary>
   </component>
