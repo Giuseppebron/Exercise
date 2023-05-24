@@ -40,15 +40,15 @@ public class Exercises {
     }
 
     private static Student createNewStudent(String name, Integer age) {
-        Student student = new Student();
-        student.name = name;
-        student.age = age;
+        Student student1 = new Student();
+        student1.name = name;
+        student1.age = age;
 
         System.out.println(name + " " +age);
 
         // Write your code here
 
-        return student;
+        return student1;
     }
 
     /*
@@ -66,13 +66,14 @@ public class Exercises {
 
     private static void exercise3() {
         System.out.println("\nExercise 3:");
+        List<String> studentNames = Arrays.asList("Alice", "Aragon", "Alex");
         List<Integer> studentAges = Arrays.asList(23, 31, 38);
 
         double sumTotalAge = 0;
         for (int age : studentAges){
             sumTotalAge += age;
         }
-        double averageAge = sumTotalAge / 3;
+        double averageAge = sumTotalAge / studentAges.size();
         System.out.println(Math.round(averageAge));
         // Write your code here
     }
