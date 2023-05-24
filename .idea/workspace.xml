@@ -4,28 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="add exercise JavaAdvanced 4-5-6-7">
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Piano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaadvanced/_2Abstractclass/_2/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="add exercise JavaAdvanced Inheritance">
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_4Records/_1/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaadvanced/_4Records/_1/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/esercizi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Exercises.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaadvanced/Inheritance/_1/Fish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/esercizi/javabasics/esercizi.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +21,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -90,7 +73,7 @@
       <recent name="javabasics.javaadvanced._2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercises">
+  <component name="RunManager" selected="Application.javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._3Objectclass._3.Exercises" />
       <module name="esercizi" />
@@ -117,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javabasics.javaadvanced.Inheritance._1.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced.Inheritance._1.Exercises" />
-      <module name="esercizi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced.Inheritance._1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="javabasics.javaadvanced._2Abstractclass._2.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._2Abstractclass._2.Exercises" />
       <module name="esercizi" />
@@ -143,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._7.main" />
+    <configuration name="javabasics.javaadvanced._4Records._1.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._4Records._1.Exercises" />
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced._7.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._4Records._1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,28 +126,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="javabasics.javaadvanced._5JavaStreams._2.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._5JavaStreams._2.Exercises" />
       <module name="esercizi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javabasics.javaadvanced._7.*" />
+          <option name="PATTERN" value="javabasics.javaadvanced._5JavaStreams._2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="javabasics.javaadvanced._7" />
-      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._7.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises" />
+      <module name="esercizi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javabasics.javaadvanced._6AdvancedIDEfeatures._3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises" />
+        <item itemvalue="Application.javabasics.javaadvanced._5JavaStreams._2.Exercises" />
+        <item itemvalue="Application.javabasics.javaadvanced._4Records._1.Exercises" />
         <item itemvalue="Application.Exercises" />
         <item itemvalue="Application.javabasics.javaadvanced._2Abstractclass._2.Exercises" />
-        <item itemvalue="Application.javabasics.javaadvanced.Inheritance._1.Exercises" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684683024925</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add exercise JavaAdvanced Abstract class and Object class">
+      <created>1684867442106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684867442106</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add exercise JavaAdvanced Inheritance">
+      <created>1684867547677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684867547677</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +224,9 @@
     <MESSAGE value="fixed OOP\_1" />
     <MESSAGE value="add exercise JavaAdvanced \_3" />
     <MESSAGE value="add exercise JavaAdvanced 4-5-6-7" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise JavaAdvanced 4-5-6-7" />
+    <MESSAGE value="add exercise JavaAdvanced Abstract class and Object class" />
+    <MESSAGE value="add exercise JavaAdvanced Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise JavaAdvanced Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -238,10 +235,14 @@
           <properties class="java.lang.IllegalArgumentException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-20/lib/src.zip!/java.base/java/lang/IllegalArgumentException.java</url>
           <line>38</line>
-          <properties class="java.lang.IllegalArgumentException" method="&lt;init&gt;">
+          <properties class="java.lang.IllegalArgumentException">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
