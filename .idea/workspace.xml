@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="add exercise JavaAdvanced Record and Stream">
+    <list default="true" id="712a8cfd-8b10-47f2-9e80-73cc68def837" name="Changes" comment="fixed exercise own type">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/_1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/_1/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/_1/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/_1/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaadvanced/_5JavaStreams/_2/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaadvanced/_5JavaStreams/_2/Exercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -73,7 +75,7 @@
       <recent name="javabasics.javaadvanced._2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.javabasics.OOP._1.Exercises">
+  <component name="RunManager" selected="Application.javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._3Objectclass._3.Exercises" />
       <module name="esercizi" />
@@ -140,6 +142,8 @@
       </method>
     </configuration>
     <configuration name="javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises" />
       <module name="esercizi" />
       <extension name="coverage">
@@ -154,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.javabasics.OOP._1.Exercises" />
         <item itemvalue="Application.javabasics.javaadvanced._6AdvancedIDEfeatures._3.Exercises" />
+        <item itemvalue="Application.javabasics.OOP._1.Exercises" />
         <item itemvalue="Application.javabasics.javaadvanced._5JavaStreams._2.Exercises" />
         <item itemvalue="Application.javabasics.javaadvanced._4Records._1.Exercises" />
         <item itemvalue="Application.Exercises" />
@@ -213,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684946222615</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed exercise own type">
+      <created>1684948475562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684948475562</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,7 +245,9 @@
     <MESSAGE value="add exercise JavaAdvanced Abstract class and Object class" />
     <MESSAGE value="add exercise JavaAdvanced Inheritance" />
     <MESSAGE value="add exercise JavaAdvanced Record and Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercise JavaAdvanced Record and Stream" />
+    <MESSAGE value="fixed exercice own type" />
+    <MESSAGE value="fixed exercise own type" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed exercise own type" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -258,5 +271,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

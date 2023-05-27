@@ -30,7 +30,6 @@ public class Exercises {
     private static void exercise1() {
         System.out.println("\nExercise 1: ");
         ourNumbers.stream().filter(s -> s%2 == 0).forEach(System.out::println);
-
         // Your code here
     }
 
